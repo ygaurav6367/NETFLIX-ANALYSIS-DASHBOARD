@@ -49,11 +49,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 For any inquiries, please contact me at [yadavgaurv2003@gmail.com].
-
----
-
-### Instructions
-1. Replace the email placeholder with your actual email address.
-2. If you have any specific data sources or additional features about the dashboard, feel free to add those details.
-
-Is template ko apne project ke details ke saath modify karein aur GitHub repository me README file me shamil karein.
